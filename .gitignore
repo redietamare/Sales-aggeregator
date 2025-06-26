@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Build outputs
+client/dist/
+server/dist/
+
+# Temporary files
+server/uploads/
+server/results/
+
+# Environment
+.env
+*.log
