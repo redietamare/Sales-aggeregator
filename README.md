@@ -1,5 +1,5 @@
 My Sales Aggregator
-A full-stack application for uploading CSV files containing sales data, aggregating total sales by department, and downloading the processed results as a CSV file. The frontend is built with React (JavaScript, Vite), and the backend uses Node.js with Express.
+A full-stack application for uploading CSV files containing sales data, aggregating total sales by department, and downloading the processed results as a CSV file. The frontend is built with React (JavaScript, Vite), and the backend uses Node.js with Express and ts.
 Project Structure
 
 client/: React frontend for uploading CSVs and displaying download links.
